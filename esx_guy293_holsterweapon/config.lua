@@ -28,3 +28,4 @@ Config.Weapons = {
 	"WEAPON_STUNGUN",
 	"WEAPON_REVOLVER",
 }
+holsters 4
